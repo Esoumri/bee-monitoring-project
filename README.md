@@ -22,7 +22,9 @@ This project is a smart beehive monitoring system based on ESP32. It tracks bee 
   - Neon
   - Vercel
   - Next.js
- ⚙️ Features
+
+
+⚙️ Features
 
 - Real-time temperature and humidity monitoring
 - Bee flow (entry/exit) counting
