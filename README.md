@@ -32,3 +32,6 @@ This project is a smart beehive monitoring system based on ESP32. It tracks bee 
 - Alerts for abnormal activity (e.g., low bee movement)
 - Data sent to remote API for analysis and logging
 
+  For demo testing : https://beemonitor.vercel.app/
+  Login credential: ALA2025
+
